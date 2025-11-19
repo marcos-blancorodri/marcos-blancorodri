@@ -24,4 +24,4 @@ I'm always eager to learn and apply new technologies to solve real-world problem
 ---
 
 ### 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] marcos.blancorodri@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) marcos.blancorodri@gmail.com
