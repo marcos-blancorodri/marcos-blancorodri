@@ -12,7 +12,7 @@ I'm always eager to learn and apply new technologies to solve real-world problem
 |---|---|---|---|---|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) | `LangChain` | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | `Spring Boot` | `CrewAI` | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| `HTML/CSS` | | `LangGraph`| | |
+| `HTML/CSS` | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | `LangGraph`| | |
 
 ---
 
