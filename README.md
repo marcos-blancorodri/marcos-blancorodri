@@ -17,7 +17,7 @@ I'm always eager to learn and apply new technologies to solve real-world problem
 ---
 
 ### 🌱 I'm currently working on...
-- **Enhancing my Backend Skills:** Building and deploying robust APIs with **Java Spring Boot**.
+- **Enhancing my Backend Skills:** Building and deploying robust APIs with **Java (Spring Boot)** and **Python(FastAPI)**.
 - **Containerization & MLOps:** Using **Docker** to containerize applications and exploring MLOps principles for efficient AI model deployment.
 - **Developing AI Agents:** Diving deep into frameworks like **LangChain** and **CrewAI** to create autonomous agents that interact with external tools and APIs.
 
