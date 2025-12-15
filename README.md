@@ -1,8 +1,12 @@
 # Hi there, I'm Marcos 👋
 
-I'm a Computer Science student at **Universidad Jaume I**, passionate about building intelligent solutions and secure systems. My main interests are **Artificial Intelligence**, **Cybersecurity**, and **Backend Development**.
+I am a Computer Engineering student who enjoys solving the puzzle more than just writing the syntax.
 
-I'm always eager to learn and apply new technologies to solve real-world problems.
+Currently finishing my degree at Universitat Jaume I, I have built a strong technical core in Backend Development and Software Engineering. I pride myself on being resourceful: give me a project, and I will research, architect, and implement the solution.
+
+While I can build robust applications, my true passion lies in understanding how systems work under the hood. I am actively pivoting my focus towards the infrastructure that supports modern software: Cloud Architecture, DevOps, and Security.
+
+In my free time, I move away from traditional coding to focus on "the big picture": containerizing apps, understanding network protocols, exploring AI integration, and testing system security on platforms like HackTheBox.
 
 ---
 
