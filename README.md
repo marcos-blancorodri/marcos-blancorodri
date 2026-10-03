@@ -1,6 +1,6 @@
 # Hi there, I'm Marcos 👋
 
-Final-year Computer Engineering student (Universitat Jaume I) working at the
+Computer Engineer (Universitat Jaume I) working at the
 intersection of **cloud infrastructure and AI systems**.
 
 My foundation is infrastructure — Kubernetes, Docker, CI/CD and secure
