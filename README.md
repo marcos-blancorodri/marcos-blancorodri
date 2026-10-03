@@ -12,7 +12,6 @@ that work once.
 **What I'm doing right now**
 - Building an Industrial IoT platform: automated edge-node
   onboarding (mTLS / PKI), NestJS microservices, Docker, CI/CD.
-- Finishing my Computer Engineering degree.
 
 **Tools I work with**
 `Python` · `TypeScript` · `Docker` · `Kubernetes` · `GitHub Actions` ·
