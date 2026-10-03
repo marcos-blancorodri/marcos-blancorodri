@@ -10,7 +10,7 @@ to RAG and agents. I care about systems that ship and run reliably, not demos
 that work once.
 
 **What I'm doing right now**
-- Internship building an Industrial IoT platform: automated edge-node
+- Building an Industrial IoT platform: automated edge-node
   onboarding (mTLS / PKI), NestJS microservices, Docker, CI/CD.
 - Finishing my Computer Engineering degree.
 
